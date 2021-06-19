@@ -1,1 +1,1 @@
-# Practical MLOps
+# Practical MLOps - Safari
